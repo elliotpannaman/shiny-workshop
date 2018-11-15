@@ -1,0 +1,10 @@
+name: elliot
+title:
+username:
+account: devday
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 574521
+bundleId: 1703366
+url: https://devday.shinyapps.io/elliot/
+when: 1542321377.00649

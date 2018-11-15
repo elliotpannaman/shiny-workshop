@@ -1,0 +1,7 @@
+Title: Kubrick D4 - Shiny Workshop
+Author: Elliot Pannaman
+AuthorUrl: https://github.com/elliotpannaman
+License: GPL-3
+DisplayMode: Showcase
+Tags: shiny
+Type: Shiny

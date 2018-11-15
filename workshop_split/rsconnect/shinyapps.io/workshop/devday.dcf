@@ -1,0 +1,10 @@
+name: devday
+title:
+username:
+account: workshop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 550782
+bundleId: 1696218
+url: https://workshop.shinyapps.io/devday/
+when: 1542034169.86829
