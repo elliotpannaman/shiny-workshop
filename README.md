@@ -1134,10 +1134,10 @@ shinyApp(ui, server)
 library(rsconnect)
 
 rsconnect::setAccountInfo(name='devday',
-                          token='2FA179ED87E8091FC9A3E39C6B22DC4B',
-                          secret='wFXRdhepkahFIYakpc0JvAMlFvplw4DiKIzqBwFx')
+                          token='xxx',
+                          secret='xxx')
 
-rsconnect::deployApp(appDir = '/Users/elliotpannaman/Desktop/workshop_split/',
+rsconnect::deployApp(appDir = 'xxx',
                      appName = 'aquaman',
                      account = 'devday')
 ```
